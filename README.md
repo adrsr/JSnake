@@ -1,1 +1,1 @@
-Classic snake game in javascript
+Classic snake game in javascript whith HTML5 canvas
